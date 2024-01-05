@@ -20,3 +20,9 @@ form{
 .alert.alert-warning pre{
     display: inline;
 }
+.resetButton{
+    display: block;
+    margin: auto;
+    margin-top: 35vh;
+
+}
