@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin:0
+    
+}
+form{
+    margin-top: 10px
+}
+.input-group.mb-3{
+    width: 500px;
+    margin: auto;
+}
+.alert.alert-warning pre{
+    display: inline;
+}
